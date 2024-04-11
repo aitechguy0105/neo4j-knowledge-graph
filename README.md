@@ -1,13 +1,5 @@
-# Knowledge Graph with Neo4j
+# Neo4j Knowledge Graph
 
-<p align="center">
-    <a href="https://lgtm.com/projects/g/Dhyeythumar/Knowledge-Graph-with-Neo4j/alerts/">
-      <img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/Dhyeythumar/Knowledge-Graph-with-Neo4j.svg?logo=lgtm&logoWidth=20&style=for-the-badge" />
-    </a>
-    <a href="https://lgtm.com/projects/g/Dhyeythumar/Knowledge-Graph-with-Neo4j/context:python">
-      <img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/Dhyeythumar/Knowledge-Graph-with-Neo4j.svg?logo=lgtm&logoWidth=20&style=for-the-badge" />
-    </a>
-</p>
 
 <h4 align="center">
     Analyzing Knowledge Graph by scraping Wikipedia pages based on famous personalities.
@@ -49,7 +41,7 @@ I have used the Knowledge Graph technique to analyze, discover patterns and tren
 -   Clone this repo:
 
 ```bash
-$ git clone https://github.com/Dhyeythumar/Knowledge-Graph-with-Neo4j.git
+$ git clone https://github.com/aitechguy0105/neo4j-knowledge-graph.git
 ```
 
 -   Create and activate the python virtual environment **(Use python 3.8)**:
@@ -62,7 +54,7 @@ $ KG_env\Scripts\activate
 -   Install the requirements:
 
 ```bash
-$ cd Knowledge-Graph-with-Neo4j
+$ cd neo4j-knowledge-graph
 $ pip install -r requirements.txt
 ```
 
@@ -96,10 +88,6 @@ With the above setting you are good to go ✌.
 But if you want a deeper understanding of how the project is implemented and what trade-off I faced while developing 😀, then check this <a href="./implementation.md">README file</a>. Other tables of contents are in that file.
 </h3>
 <br />
-
-## License
-
-Licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
 
